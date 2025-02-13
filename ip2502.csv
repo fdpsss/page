@@ -1,0 +1,138 @@
+IP地址,数据中心,地区,城市,网络延迟
+104.25.244.120,HKG,Asia Pacific,Hong Kong,50 ms
+104.25.247.118,HKG,Asia Pacific,Hong Kong,51 ms
+104.25.245.210,HKG,Asia Pacific,Hong Kong,51 ms
+104.25.243.120,HKG,Asia Pacific,Hong Kong,52 ms
+104.25.252.38,HKG,Asia Pacific,Hong Kong,52 ms
+104.25.250.109,HKG,Asia Pacific,Hong Kong,52 ms
+104.25.249.124,HKG,Asia Pacific,Hong Kong,52 ms
+104.25.240.234,HKG,Asia Pacific,Hong Kong,52 ms
+104.25.253.2,HKG,Asia Pacific,Hong Kong,52 ms
+104.25.255.101,HKG,Asia Pacific,Hong Kong,52 ms
+104.25.248.100,HKG,Asia Pacific,Hong Kong,52 ms
+104.25.246.66,HKG,Asia Pacific,Hong Kong,53 ms
+104.25.251.121,HKG,Asia Pacific,Hong Kong,53 ms
+104.25.242.56,HKG,Asia Pacific,Hong Kong,53 ms
+172.64.146.222,HKG,Asia Pacific,Hong Kong,53 ms
+104.25.241.158,HKG,Asia Pacific,Hong Kong,53 ms
+104.25.254.212,HKG,Asia Pacific,Hong Kong,54 ms
+172.64.153.67,HKG,Asia Pacific,Hong Kong,62 ms
+1.1.1.164,NRT,Asia Pacific,Tokyo,101 ms
+104.16.132.175,FRA,Europe,Frankfurt,131 ms
+104.16.102.53,FRA,Europe,Frankfurt,131 ms
+104.18.115.141,FRA,Europe,Frankfurt,132 ms
+172.67.10.67,FRA,Europe,Frankfurt,132 ms
+162.159.140.24,FRA,Europe,Frankfurt,132 ms
+104.16.108.246,FRA,Europe,Frankfurt,132 ms
+172.67.9.126,FRA,Europe,Frankfurt,132 ms
+104.16.133.126,FRA,Europe,Frankfurt,132 ms
+104.19.234.175,FRA,Europe,Frankfurt,132 ms
+104.16.111.38,FRA,Europe,Frankfurt,132 ms
+104.16.105.163,FRA,Europe,Frankfurt,132 ms
+172.64.229.58,FRA,Europe,Frankfurt,133 ms
+104.20.62.232,FRA,Europe,Frankfurt,133 ms
+104.19.227.255,FRA,Europe,Frankfurt,133 ms
+104.16.109.163,FRA,Europe,Frankfurt,133 ms
+104.20.58.164,FRA,Europe,Frankfurt,133 ms
+104.16.134.127,FRA,Europe,Frankfurt,133 ms
+104.18.113.249,FRA,Europe,Frankfurt,133 ms
+104.16.96.184,FRA,Europe,Frankfurt,133 ms
+104.20.61.58,FRA,Europe,Frankfurt,133 ms
+104.16.143.45,FRA,Europe,Frankfurt,133 ms
+104.19.231.76,FRA,Europe,Frankfurt,133 ms
+162.159.130.50,FRA,Europe,Frankfurt,133 ms
+162.159.128.194,FRA,Europe,Frankfurt,133 ms
+104.18.118.222,FRA,Europe,Frankfurt,134 ms
+104.20.57.237,FRA,Europe,Frankfurt,134 ms
+104.18.112.230,FRA,Europe,Frankfurt,134 ms
+104.16.130.177,FRA,Europe,Frankfurt,134 ms
+172.67.11.184,FRA,Europe,Frankfurt,134 ms
+104.20.59.178,FRA,Europe,Frankfurt,134 ms
+104.19.224.165,FRA,Europe,Frankfurt,134 ms
+104.16.107.71,FRA,Europe,Frankfurt,134 ms
+104.16.98.140,FRA,Europe,Frankfurt,134 ms
+172.65.219.60,FRA,Europe,Frankfurt,134 ms
+104.20.54.102,FRA,Europe,Frankfurt,134 ms
+104.19.225.227,FRA,Europe,Frankfurt,134 ms
+104.18.124.133,FRA,Europe,Frankfurt,134 ms
+104.16.129.63,FRA,Europe,Frankfurt,134 ms
+162.159.160.19,FRA,Europe,Frankfurt,134 ms
+162.159.153.62,FRA,Europe,Frankfurt,134 ms
+172.67.13.143,FRA,Europe,Frankfurt,135 ms
+104.18.122.244,FRA,Europe,Frankfurt,135 ms
+172.67.2.16,FRA,Europe,Frankfurt,135 ms
+104.19.235.174,FRA,Europe,Frankfurt,135 ms
+104.16.100.72,FRA,Europe,Frankfurt,135 ms
+104.16.101.179,FRA,Europe,Frankfurt,135 ms
+104.18.114.38,FRA,Europe,Frankfurt,135 ms
+104.18.126.158,FRA,Europe,Frankfurt,135 ms
+104.19.233.195,FRA,Europe,Frankfurt,135 ms
+104.16.106.146,FRA,Europe,Frankfurt,135 ms
+104.16.139.251,FRA,Europe,Frankfurt,135 ms
+104.16.135.143,FRA,Europe,Frankfurt,135 ms
+104.20.53.116,FRA,Europe,Frankfurt,135 ms
+104.16.104.25,FRA,Europe,Frankfurt,135 ms
+172.67.4.2,FRA,Europe,Frankfurt,136 ms
+172.67.0.75,FRA,Europe,Frankfurt,136 ms
+104.18.120.88,FRA,Europe,Frankfurt,136 ms
+104.20.52.198,FRA,Europe,Frankfurt,136 ms
+104.20.51.98,FRA,Europe,Frankfurt,136 ms
+104.20.48.88,FRA,Europe,Frankfurt,136 ms
+104.16.97.149,FRA,Europe,Frankfurt,136 ms
+104.19.232.40,FRA,Europe,Frankfurt,136 ms
+172.67.12.107,FRA,Europe,Frankfurt,137 ms
+104.16.137.46,FRA,Europe,Frankfurt,138 ms
+104.19.226.100,FRA,Europe,Frankfurt,138 ms
+104.16.103.247,FRA,Europe,Frankfurt,138 ms
+172.67.7.89,FRA,Europe,Frankfurt,138 ms
+162.159.143.105,FRA,Europe,Frankfurt,139 ms
+104.18.119.86,FRA,Europe,Frankfurt,139 ms
+104.20.56.4,FRA,Europe,Frankfurt,139 ms
+104.19.230.188,FRA,Europe,Frankfurt,139 ms
+104.18.34.255,FRA,Europe,Frankfurt,139 ms
+104.20.50.75,FRA,Europe,Frankfurt,139 ms
+162.159.136.234,FRA,Europe,Frankfurt,139 ms
+172.65.183.215,FRA,Europe,Frankfurt,139 ms
+104.19.237.102,FRA,Europe,Frankfurt,139 ms
+172.67.3.2,FRA,Europe,Frankfurt,140 ms
+104.16.140.144,FRA,Europe,Frankfurt,140 ms
+104.16.99.145,FRA,Europe,Frankfurt,140 ms
+104.19.236.44,FRA,Europe,Frankfurt,140 ms
+104.16.131.200,FRA,Europe,Frankfurt,140 ms
+104.20.55.57,FRA,Europe,Frankfurt,140 ms
+104.19.238.43,FRA,Europe,Frankfurt,140 ms
+104.20.49.28,FRA,Europe,Frankfurt,140 ms
+172.67.5.192,FRA,Europe,Frankfurt,140 ms
+162.159.152.56,FRA,Europe,Frankfurt,141 ms
+162.159.137.114,FRA,Europe,Frankfurt,141 ms
+162.159.134.129,FRA,Europe,Frankfurt,141 ms
+162.159.135.49,FRA,Europe,Frankfurt,141 ms
+104.16.138.42,FRA,Europe,Frankfurt,141 ms
+172.67.14.175,FRA,Europe,Frankfurt,141 ms
+172.67.15.202,FRA,Europe,Frankfurt,141 ms
+104.18.117.30,FRA,Europe,Frankfurt,141 ms
+104.18.127.85,FRA,Europe,Frankfurt,141 ms
+172.65.217.161,FRA,Europe,Frankfurt,141 ms
+104.18.116.154,FRA,Europe,Frankfurt,141 ms
+162.159.133.172,FRA,Europe,Frankfurt,141 ms
+104.18.125.253,FRA,Europe,Frankfurt,141 ms
+104.16.110.6,FRA,Europe,Frankfurt,141 ms
+172.67.8.19,FRA,Europe,Frankfurt,141 ms
+104.19.239.13,FRA,Europe,Frankfurt,142 ms
+162.159.129.224,FRA,Europe,Frankfurt,142 ms
+172.67.1.80,FRA,Europe,Frankfurt,142 ms
+104.16.136.118,FRA,Europe,Frankfurt,142 ms
+104.18.123.160,FRA,Europe,Frankfurt,142 ms
+104.16.142.245,FRA,Europe,Frankfurt,142 ms
+104.19.229.1,FRA,Europe,Frankfurt,142 ms
+162.159.141.201,FRA,Europe,Frankfurt,142 ms
+162.159.142.219,FRA,Europe,Frankfurt,142 ms
+172.65.177.18,FRA,Europe,Frankfurt,142 ms
+172.67.6.38,FRA,Europe,Frankfurt,142 ms
+104.20.63.57,FRA,Europe,Frankfurt,142 ms
+104.16.128.169,FRA,Europe,Frankfurt,142 ms
+162.159.138.113,FRA,Europe,Frankfurt,142 ms
+104.16.141.184,FRA,Europe,Frankfurt,142 ms
+104.18.121.38,FRA,Europe,Frankfurt,143 ms
+104.20.60.8,FRA,Europe,Frankfurt,143 ms
+104.19.228.219,FRA,Europe,Frankfurt,144 ms
